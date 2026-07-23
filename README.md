@@ -1,7 +1,8 @@
 # 🌌 Global Financial Intelligence: Power BI + Figma (Glassmorphism / Dark Neon)
 
-![Interface do Dashboard](<img width="1095" height="540" alt="finança1" src="https://github.com/user-attachments/assets/ca8076b2-56b0-45e8-b5ef-aefc2d2abf17" />
-)
+Interface do Dashboard
+<img width="1095" height="540" alt="finança1" src="https://github.com/user-attachments/assets/7e127b8e-5342-4ac1-b237-2b8f89174c1c" />
+
 
 ## 📌 Sobre o Projeto
 Este repositório contém uma central de comando de inteligência de mercado desenvolvida no Power BI Desktop. O projeto utiliza o conjunto de dados nativo de performance financeira global (`financials`) e se destaca por uma interface disruptiva em estilo *Glassmorphism / Dark Cyberpunk*, simulando o painel operacional de uma fintech ou terminal financeiro sênior.
